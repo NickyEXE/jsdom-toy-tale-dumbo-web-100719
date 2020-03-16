@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 12
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": 22
     },
     {
       "id": 3,
@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Furby",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2019-06-27-at-3-32-27-pm-1561663971.png?crop=1xw:1xh;center,top&resize=480:*",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Furby",
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2019-06-27-at-3-32-27-pm-1561663971.png?crop=1xw:1xh;center,top&resize=480:*",
+      "likes": 0,
+      "id": 13
     }
   ]
 }
