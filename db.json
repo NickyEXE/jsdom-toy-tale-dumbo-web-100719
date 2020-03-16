@@ -4,13 +4,13 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 12
+      "likes": 26
     },
     {
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 22
+      "likes": 26
     },
     {
       "id": 3,
@@ -59,6 +59,18 @@
       "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/screen-shot-2019-06-27-at-3-32-27-pm-1561663971.png?crop=1xw:1xh;center,top&resize=480:*",
       "likes": 0,
       "id": 13
+    },
+    {
+      "name": "Tamagotchi",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tamagotchi_0124_ubt.jpeg",
+      "likes": 0,
+      "id": 19
+    },
+    {
+      "name": "Test",
+      "image": "1",
+      "likes": 0,
+      "id": 20
     }
   ]
 }
